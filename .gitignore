@@ -61,3 +61,6 @@ yarn-error.log*
 # OS generated files
 .DS_Store
 Thumbs.db
+
+build/
+.flutter-plugins-dependencies
